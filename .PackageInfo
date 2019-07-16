@@ -1,4 +1,4 @@
-name switchers-compat
+name switchers_compat
 version 1.0-1
 architecture x86_64
 
@@ -12,8 +12,7 @@ copyrights "probono"
 licenses "MIT"
 
 provides {
-  switchers-compat = 1.0-1
+  switchers_compat = 1.0-1
 } requires {
   haiku
 }
-EOF
