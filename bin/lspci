@@ -1,2 +1,2 @@
 #!/system/bin/sh
-listdevices
+listdev
