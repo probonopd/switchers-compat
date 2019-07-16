@@ -1,0 +1,19 @@
+name switchers-compat
+version 1.0-1
+architecture x86_64
+
+summary "Commands for switchers coming to Haiku"
+description "Commands to make it easier for switchers coming from other operating systems such as Linux, macOS, and Windows to use Haiku"
+
+packager "probono"
+vendor "probono"
+
+copyrights "probono"
+licenses "MIT"
+
+provides {
+  switchers-compat = 1.0-1
+} requires {
+  haiku
+}
+EOF
