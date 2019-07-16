@@ -1,3 +1,2 @@
 #!/system/bin/sh
-echo "Use instead:"
-echo "listdevices"
+listdevices
