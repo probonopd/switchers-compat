@@ -1,5 +1,5 @@
 name switchers_compat
-version 1.0-1
+version 1.0-2
 architecture any
 
 summary "Commands for switchers coming to Haiku"
@@ -12,12 +12,13 @@ copyrights "probono"
 licenses "MIT"
 
 provides {
-	switchers_compat = 1.0-1
+	switchers_compat = 1.0-2
 	cmd:ver
 	cmd:syslog
 	cmd:lsusb
 	cmd:lspci
 	cmd:dmesg
+	cmd:reboot
 }
 
 requires {
