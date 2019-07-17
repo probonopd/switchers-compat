@@ -19,6 +19,11 @@ provides {
 	cmd:lspci
 	cmd:dmesg
 	cmd:reboot
+	cmd:apt
+	cmd:apt-get
+	cmd:rpm
+	cmd:yum
+	cmd:zypper
 }
 
 requires {
