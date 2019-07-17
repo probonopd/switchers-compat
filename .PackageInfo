@@ -20,7 +20,7 @@ provides {
 	cmd:dmesg
 	cmd:reboot
 	cmd:apt
-	cmd:apt-get
+	cmd:apt_get
 	cmd:rpm
 	cmd:yum
 	cmd:zypper
